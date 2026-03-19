@@ -1,0 +1,1 @@
+// components/file1.tsx content goes here
