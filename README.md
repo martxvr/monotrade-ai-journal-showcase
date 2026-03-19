@@ -82,4 +82,4 @@ monotrade-ai-journal-showcase/
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
-For support, contact: [your_email@example.com] or refer to the [documentation](https://link_to_documentation).
+For support, contact: info@forthscaling.com.
