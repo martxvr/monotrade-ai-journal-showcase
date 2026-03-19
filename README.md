@@ -1,0 +1,1 @@
+# monotrade-ai-journal-showcase
